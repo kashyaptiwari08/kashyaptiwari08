@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Kashyap Tiwari 👋
 
-<!--
-**kashyaptiwari08/kashyaptiwari08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Full-Stack Developer | AI/ML | DSA | AWS
 
-Here are some ideas to get you started:
+I'm interested in building practical applications, exploring AI/ML,
+and strengthening my problem-solving skills through DSA.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+**Languages:** C++, Python, JavaScript
+
+**Frontend:** HTML, CSS, React
+
+**Backend:** Node.js, Express.js
+
+**AI/ML:** NumPy, Pandas, Scikit-learn
+
+**Cloud:** AWS
+
+## 🚀 Projects
+
+- 🫀 [Heart Disease Prediction](https://github.com/kashyaptiwari08/HeartDisease)
+- 📊 [Loan Approval Dashboard](https://github.com/kashyaptiwari08/loan-approval-dashboard)
+- 🌐 [Personal Portfolio](https://github.com/kashyaptiwari08/kashyap-portfolio)
+
+## 💡 Currently Learning
+
+- Full-Stack Development
+- AI / Machine Learning
+- AWS & Cloud
+- Data Structures & Algorithms
+
+## 🧩 Problem Solving
+
+- C++ and Data Structures & Algorithms
+- LeetCode
+- Competitive Programming
